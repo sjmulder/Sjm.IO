@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjm.IO", "Sjm.IO\Sjm.IO.csproj", "{C3991C43-4553-4A2C-966F-779C36BB03D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sjm.IO.Tests", "Sjm.IO.Tests\Sjm.IO.Tests.csproj", "{EA74BA49-C349-48C3-8E5F-0319272811B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3991C43-4553-4A2C-966F-779C36BB03D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3991C43-4553-4A2C-966F-779C36BB03D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3991C43-4553-4A2C-966F-779C36BB03D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3991C43-4553-4A2C-966F-779C36BB03D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA74BA49-C349-48C3-8E5F-0319272811B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA74BA49-C349-48C3-8E5F-0319272811B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA74BA49-C349-48C3-8E5F-0319272811B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA74BA49-C349-48C3-8E5F-0319272811B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10E81D0-9DB2-403E-ABB8-F0EA9269A2E4}
+	EndGlobalSection
+EndGlobal
