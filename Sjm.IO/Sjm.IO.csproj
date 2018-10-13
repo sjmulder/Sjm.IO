@@ -6,8 +6,8 @@
     <Description>An IO helper library. Notable classes: TeeStream.</Description>
     <Version>0.1</Version>
     <Copyright>(c) 2018 Sijmen J. Mulder</Copyright>
-    <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/sjmulder/Sjm.IO</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/sjmulder/Sjm.IO/blob/master/LICENSE.md</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/sjmulder/Sjm.IO.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
